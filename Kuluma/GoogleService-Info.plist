@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>971670953824-oud90okbsi1c5m6iirnql5s3tcf1vjp1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.971670953824-oud90okbsi1c5m6iirnql5s3tcf1vjp1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqLbuiT92tjJPepzrCdy6P3oIveJlorDk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>971670953824</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thanyani.Kuluma</string>
+	<key>PROJECT_ID</key>
+	<string>kuluma-cc121</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kuluma-cc121.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:971670953824:ios:c889b72e22e73f985c4805</string>
+	<key>DATABASE_URL</key>
+	<string>https://kuluma-cc121.firebaseio.com</string>
+</dict>
+</plist>
